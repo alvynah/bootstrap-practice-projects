@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 header {
     background-image: url('../assets/backgrounds/hero.jpg');
     text-align: center;
@@ -195,7 +199,7 @@ h1 {
 .button {
     float: right;
     color: white;
-    background-color: #800000;
+    background-color: #eb2222ea;
     padding: 1.5%;
     font-weight: bold;
     border: solid #800000;
